@@ -1,6 +1,6 @@
 +++
 date = '2025-08-22T00:00:00'
-draft = true
+draft = false
 title = 'Issues adding SQL Server Data Source to Power Platform Canvas App in a VNET-Integrated Environment'
 +++
 
