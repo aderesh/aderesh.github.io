@@ -2,3 +2,6 @@ baseURL = 'https://deresh.net/'
 languageCode = 'en-us'
 title = "Andrii's Blog"
 theme = 'photophobia'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
