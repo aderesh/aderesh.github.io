@@ -4,6 +4,8 @@ draft = false
 title = 'Issues adding SQL Server Data Source to Power Platform Canvas App in a VNET-Integrated Environment'
 +++
 
+![Power platform with SQL Server](powerplatform_vnet_sqlserver_nre.png)
+
 I’ve been working on a Power Platform Canvas App that uses SQL Server connections to update and retrieve data. The app relies on stored procedures for both reads and writes. Everything worked fine in one Power Platform environment, and the plan was to migrate the solution to another environment that is VNET-integrated.  
 
 That’s when I hit a strange issue: I couldn’t add a SQL Server data source. I was able to fill in the **Server** and **Database** fields, select my stored procedures, and click **OK**—but instead of being added, the drawer simply closed, and no data source appeared.  
