@@ -1,6 +1,6 @@
 +++
 date = '2025-12-11T20:02:59-05:00'
-draft = true
+draft = false
 title = 'Exposing Traefik dashboard in k3s after upgrading to v3'
 +++
 
